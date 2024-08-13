@@ -1,2 +1,4 @@
 # Amaan-projectdemo
-This  is my first Repository.
+This  is my first Reposito ry.
+Author- Amaan khan
+
